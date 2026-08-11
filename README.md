@@ -17,4 +17,8 @@ I'm a 5th-semester Computer Science student and Backend/AI Engineer passionate a
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasihuddin1738&show_icons=true&theme=radical)
 
-<!-- Paste the Snake HTML down here once the GitHub Action runs! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake.svg">
+</picture>
