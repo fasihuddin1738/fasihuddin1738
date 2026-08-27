@@ -3,9 +3,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fasih+👋;CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
-# Hi there, I'm Muhammad Fasihuddin Lodhi 👋
+const fasih = {
+  location: "Karachi, Pakistan",
+  education: "CS Undergrad",
+  focus: ["Cloud Computing", "DevOps", "AI Backend"],
+  techStack: [
+    "JavaScript", "Python", "C#", 
+    "React Native", "Next.js", "Node.js", 
+    "Supabase", "PostgreSQL", "Docker"
+  ],
+  currentJourney: "Exploring infrastructure architecture & agentic workflows",
+  downtime: {
+    gaming: ["Valorant", "Pokémon GO"],
+    musicRotation: ["Tyler, the Creator", "Frank Ocean", "JPEGMAFIA", "Playboi Carti"],
+    activities: ["Football", "Building 2D games in Unity"]
+  }
+};
 
-I'm a 5th-semester Computer Science student and Backend/AI Engineer passionate about building scalable systems and hardware-integrated applications. 
 
 ### 🔭 What I'm working on
 *   **Backend Engineering:** Interning at FlyrankAI, integrating SQLite, Dockerized PostgreSQL, and Supabase middleware systems.
