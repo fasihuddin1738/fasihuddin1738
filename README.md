@@ -1,4 +1,10 @@
-## Hi there, I'm Muhammad Fasihuddin Lodhi 👋
+
+#<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fasih+👋;CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+# Hi there, I'm Muhammad Fasihuddin Lodhi 👋
 
 I'm a 5th-semester Computer Science student and Backend/AI Engineer passionate about building scalable systems and hardware-integrated applications. 
 
