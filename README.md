@@ -48,8 +48,13 @@ const fasih = {
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://metrics.lecoq.io/fasihuddin1738" alt="Fasih's GitHub Metrics" />
+
+![GitHub followers](https://img.shields.io/github/followers/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
+![GitHub repos](https://img.shields.io/github/repos/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
+
 </div>
+
 
 
 
