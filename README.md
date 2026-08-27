@@ -1,21 +1,15 @@
 <div align="center">
-  <!-- Static Gothic Vamp Header (No upload needed) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&weight=800&size=55&color=FF0000&center=true&vCenter=true&width=600&lines=Hey+I'm+Fasih&repeat=false" alt="Hey I'm Fasih" />
+  <!-- Static Header (Cyan, Righteous Font) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=55&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+Fasih&repeat=false" alt="Hey I'm Fasih" />
   
   <br />
 
-  <!-- Dynamic Typing Text (Red) -->
+  <!-- Dynamic Typing Text (Cyan, Fira Code) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-
-  <!-- Dynamic Typing Text (Kept as is) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
 
 ### AboutMe.js 
 
