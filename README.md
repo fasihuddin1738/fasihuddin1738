@@ -25,7 +25,7 @@ const fasih = {
   ],
   currentJourney: "Exploring infrastructure architecture & agentic workflows",
   downtime: {
-    gaming: ["Valorant", "Pokémon GO"],
+    gaming: ["Valorant", "CS2", "Pokémon GO"],
     musicRotation: ["Tyler, the Creator", "Frank Ocean", "Playboi Carti"],
     activities: ["Football"]
   }
