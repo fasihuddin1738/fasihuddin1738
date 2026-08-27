@@ -10,15 +10,15 @@ const fasih = {
   education: "CS Undergrad",
   focus: ["Cloud Computing", "DevOps", "AI Backend"],
   techStack: [
-    "JavaScript", "Python", "C#", 
+    "JavaScript", "Python", "C++", 
     "React Native", "Next.js", "Node.js", 
     "Supabase", "PostgreSQL", "Docker"
   ],
   currentJourney: "Exploring infrastructure architecture & agentic workflows",
   downtime: {
     gaming: ["Valorant", "Pokémon GO"],
-    musicRotation: ["Tyler, the Creator", "Frank Ocean", "JPEGMAFIA", "Playboi Carti"],
-    activities: ["Football", "Building 2D games in Unity"]
+    musicRotation: ["Tyler, the Creator", "Frank Ocean", "Playboi Carti"],
+    activities: ["Football"]
   }
 };
 ```
