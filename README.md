@@ -16,7 +16,7 @@
 ```javascript
 const fasih = {
   location: "Karachi, Pakistan",
-  education: "CS Undergrad",
+  education: "CS Undergrad (5th Sem)",
   focus: ["Cloud Computing", "DevOps", "AI Backend"],
   techStack: [
     "JavaScript", "Python", "C++", 
