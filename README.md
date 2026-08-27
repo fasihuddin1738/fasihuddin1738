@@ -10,7 +10,6 @@
   </a>
 </div>
 
-
 ### 🦇AboutMe.js 
 
 ```javascript
@@ -32,8 +31,6 @@ const fasih = {
 };
 ```
 
-
-
 ### 🔭 What I'm working on
 *   **Backend Engineering:** Interning at FlyrankAI, integrating SQLite, Dockerized PostgreSQL, and Supabase middleware systems.
 *   **Computer Vision:** Developing hand-gesture-controlled camera applications using Python, OpenCV, and MediaPipe.
@@ -54,11 +51,6 @@ const fasih = {
 ![Profile Views](https://komarev.com/ghpvc/?username=fasihuddin1738&label=Profile%20Views&color=36BCF7&style=for-the-badge)
 
 </div>
-
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake-dark.svg">
