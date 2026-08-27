@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Static Header (Cyan, Righteous Font) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=55&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+Fasih&repeat=false" alt="Hey I'm Fasih" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=55&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+Fasih+👋🏼&repeat=false" alt="Hey I'm Fasih" />
   
   <br />
 
