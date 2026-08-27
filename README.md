@@ -48,12 +48,9 @@ const fasih = {
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fasihuddin1738&show_icons=true&theme=tokyonight" alt="Fasih's GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasihuddin1738&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasihuddin1738&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-![Fasih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasihuddin1738&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake-dark.svg">
