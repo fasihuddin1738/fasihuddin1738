@@ -48,8 +48,9 @@ const fasih = {
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasihuddin1738&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fasihuddin1738&theme=tokyo-night&hide_border=true" alt="Fasih's GitHub Activity Graph" />
 </div>
+
 
 
 <picture>
