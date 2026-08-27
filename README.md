@@ -47,7 +47,8 @@ const fasih = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasihuddin1738&show_icons=true&theme=radical)
+
+![Fasih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasihuddin1738&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake-dark.svg">
