@@ -52,6 +52,15 @@ const fasih = {
 
 </div>
 
+### 🔗 My Socials
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasih-lodhi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fasihuddin._)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6P2XV6LaCqirG2BfFID5vs?si=DausNO1PTDqBBxlCGP7KcA&utm_source=copy-link&pi=8A_m8zo3STO_p)
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fasihuddin1738/fasihuddin1738/output/github-contribution-grid-snake.svg">
