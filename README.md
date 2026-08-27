@@ -51,9 +51,10 @@ const fasih = {
 
 ![GitHub followers](https://img.shields.io/github/followers/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
-![GitHub repos](https://img.shields.io/github/repos/fasihuddin1738?style=for-the-badge&color=36BCF7&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=fasihuddin1738&label=Profile%20Views&color=36BCF7&style=for-the-badge)
 
 </div>
+
 
 
 
