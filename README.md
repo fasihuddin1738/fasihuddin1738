@@ -1,21 +1,15 @@
-
 <div align="center">
-  <!-- Static Vamp Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&fontColor=ff0000&text=Hey%20I'm%20Fasih&height=100&fontSize=45&fontAlignY=50" alt="Hey I'm Fasih" />
+  <!-- Styled Vamp Header Image with Texture & Gradient -->
+  <img src="path_to_the_image_below.png" alt="Hey I'm Fasih" style="max-width: 100%; border-radius: 8px;" />
   
   <br />
 
-  <!-- Dynamic Typing Text -->
+  <!-- Dynamic Typing Text (Kept as is) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fasih+👋;CS+Undergrad+%7C+Developer;Building+for+the+Web+%26+Mobile;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
 
 ```javascript
 const fasih = {
